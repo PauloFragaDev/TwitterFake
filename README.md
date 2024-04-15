@@ -12,7 +12,7 @@
 - Hacemos un git clone de la carpeta:
 
 ```
-git clone https://github.com/DAW-Cirvianum/crvinstagram-PolFraga50.git
+git clone https://github.com/PauloFragaDev/TwitterFake
 ```
 - Iniciamos el proyecto con el siguiente comando:
 ```
