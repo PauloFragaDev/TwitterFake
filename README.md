@@ -64,4 +64,4 @@ Hay un buscador el cual hemos de poner el **username** del usuario para entrar e
 
 ## Expresiones de Gratitud 🎁
 
-* Apruebame la UF porfavor y no te  🥺
+* Gracias por ver :D
